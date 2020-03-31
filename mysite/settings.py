@@ -89,7 +89,7 @@ else:
         'default': {
             'ENGINE': 'django.db.backends.mysql',
             'NAME': 'ebdb',
-            'USER': 'jaeminAWS',
+            'USER': 'JaeminAWS',
             'PASSWORD':'vwXf9eh!kQHXBdr',
             'HOST': 'awspractice-env.eba-vdqmy3ys.us-east-2.elasticbeanstalk.com',
             'PORT':3306,
