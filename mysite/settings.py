@@ -25,7 +25,7 @@ SECRET_KEY = '3h(aev)brtx08b5*)-$s9f@od93r96puwvooqt4)1*0mffjhjy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['backendoaz-env-2.eba-me3fmpij.ap-northeast-2.elasticbeanstalk.com', '127.0.0.1']
+ALLOWED_HOSTS = ['awspractice-env.eba-vdqmy3ys.us-east-2.elasticbeanstalk.com', '127.0.0.1']
 
 
 # Application definition
